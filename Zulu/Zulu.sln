@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{68046733-E465-9165-A4F5-9A1918CB1408}") = "Zulu", "Assembly-CSharp.csproj", "{CE132F67-EE67-55EA-247C-AD87CC5EBB6D}"
+EndProject
+Project("{68046733-E465-9165-A4F5-9A1918CB1408}") = "Zulu", "Assembly-CSharp-Editor.csproj", "{756AF4AB-20C3-A455-AC5F-24B8237EA54D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE132F67-EE67-55EA-247C-AD87CC5EBB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE132F67-EE67-55EA-247C-AD87CC5EBB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE132F67-EE67-55EA-247C-AD87CC5EBB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE132F67-EE67-55EA-247C-AD87CC5EBB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756AF4AB-20C3-A455-AC5F-24B8237EA54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756AF4AB-20C3-A455-AC5F-24B8237EA54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756AF4AB-20C3-A455-AC5F-24B8237EA54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756AF4AB-20C3-A455-AC5F-24B8237EA54D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
