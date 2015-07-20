@@ -68,9 +68,12 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_WIN
 -define:CROSS_PLATFORM_INPUT
+Assets/code/Attack.cs
 Assets/code/Entity.cs
 Assets/code/Level.cs
 Assets/code/Player.cs
+Assets/code/door.cs
 Assets/code/house.cs
+Assets/code/voidj.cs
 -r:"D:\Program Files (x86)\unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
 -r:"D:\Program Files (x86)\unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"

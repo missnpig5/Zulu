@@ -46,11 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\code\Attack.cs" />
      <Compile Include="Assets\code\Entity.cs" />
      <Compile Include="Assets\code\Level.cs" />
      <Compile Include="Assets\code\Player.cs" />
      <Compile Include="Assets\code\door.cs" />
      <Compile Include="Assets\code\house.cs" />
+     <Compile Include="Assets\code\voidj.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files (x86)/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

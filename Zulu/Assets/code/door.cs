@@ -4,7 +4,8 @@ using System.Collections;
 public class door : MonoBehaviour {
 	public bool outsideDoor;
 	public house House;
-	// Use this for initialization
+
+	public int fjegeg = 0;
 	void Start () {
 
 
@@ -15,6 +16,7 @@ public class door : MonoBehaviour {
 	
 	}
 	void OnTriggerEnter2D(Collider2D c) {
+		//get activevate player teleport trigger 
 		Entity e = c.GetComponent<Entity>();
 		if(e != null)
 		{
